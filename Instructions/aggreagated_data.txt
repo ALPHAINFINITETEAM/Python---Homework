@@ -2,3 +2,4 @@
 Financial Analysis
 ----------------------------
 total months : 86
+total : $ 38382578.0
